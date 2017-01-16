@@ -1,0 +1,8 @@
+D:\CODE\DesktopPopup\DesktopPopup\bin\Debug\DesktopPopup.exe
+D:\CODE\DesktopPopup\DesktopPopup\bin\Debug\DesktopPopup.pdb
+D:\CODE\DesktopPopup\DesktopPopup\obj\x86\Debug\DesktopPopup.Form1.resources
+D:\CODE\DesktopPopup\DesktopPopup\obj\x86\Debug\DesktopPopup.Properties.Resources.resources
+D:\CODE\DesktopPopup\DesktopPopup\obj\x86\Debug\DesktopPopup.csproj.GenerateResource.Cache
+D:\CODE\DesktopPopup\DesktopPopup\obj\x86\Debug\DesktopPopup.exe
+D:\CODE\DesktopPopup\DesktopPopup\obj\x86\Debug\DesktopPopup.pdb
+D:\CODE\DesktopPopup\DesktopPopup\obj\x86\Debug\DesktopPopup.csprojResolveAssemblyReference.cache
